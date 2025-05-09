@@ -1,7 +1,3 @@
-Claro! Aqui está uma sugestão clara, bem estruturada e totalmente em inglês para o seu `README.md` principal:
-
----
-
 # A Novel Approach to Encryption with Physical Chaotic Circuits
 
 This repository contains all the code and data related to the Master's research project of **Ryan Murphy**, developed at the **Department of Electronic Engineering, Maynooth University**.
