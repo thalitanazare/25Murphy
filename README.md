@@ -1,6 +1,6 @@
 # A Novel Approach to Encryption with Physical Chaotic Circuits
 
-This repository contains all the code and data related to the Master's research project of **Ryan Murphy**, developed at the **Department of Electronic Engineering, Maynooth University**.
+This repository contains all the code and data associated with the Master's research project of **Ryan Murphy**, which was developed by the student at the **Department of Electronic Engineering, Maynooth University**.
 
 **Supervised by**: Dr. Erivelton Nepomuceno
 **Co-supervised by**: Thalita Nazaré, M.Eng.
